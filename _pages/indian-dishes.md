@@ -4,7 +4,7 @@ post_title: Indian Dishes
 author: user
 post_excerpt: ""
 layout: page
-permalink: https://www.meltingpot.tk/indian-dishes/
+permalink: http://www.meltingpot.tk/indian-dishes/
 published: true
 post_date: 2019-09-04 13:05:34
 ---

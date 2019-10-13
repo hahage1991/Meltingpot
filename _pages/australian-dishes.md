@@ -11,6 +11,12 @@ post_date: 2019-09-06 06:05:34
 ---
 <h2>Did you know?</h2>		
 		[smartslider3 slider=5]		
+			<a href="https://www.meltingpot.tk/dish-filter/" role="button">
+						Filter Food by Preference
+					</a>
+			<a href="#" role="button">
+						Click here
+					</a>
 			<a href="#dada">
 						</a>
 			<h3>PICNIC SAUSAGE ROLLS</h3>		

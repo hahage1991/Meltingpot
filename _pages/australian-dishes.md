@@ -4,7 +4,8 @@ post_title: Australian Dishes
 author: user
 post_excerpt: ""
 layout: page
-permalink: http://meltingpot.tk/australian-dishes/
+permalink: >
+  http://www.meltingpot.tk/australian-dishes/
 published: true
 post_date: 2019-09-06 06:05:34
 ---

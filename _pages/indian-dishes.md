@@ -10,6 +10,9 @@ post_date: 2019-09-04 13:05:34
 ---
 <h2>Did you know?</h2>		
 		[smartslider3 slider=10]		
+			<a href="#" role="button">
+						Click here
+					</a>
 			<a href="#dada">
 						</a>
 			<h3>Curd Rice</h3>		

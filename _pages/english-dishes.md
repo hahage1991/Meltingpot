@@ -31,6 +31,9 @@ post_date: 2019-09-06 06:07:55
 						Know more
 					</a>
 										<img width="1024" height="767" src="http://meltingpot.tk/wp-content/uploads/2019/10/WechatIMG273-1024x767.jpeg" alt="" srcset="https://meltingpot.tk/wp-content/uploads/2019/10/WechatIMG273-1024x767.jpeg 1024w, https://meltingpot.tk/wp-content/uploads/2019/10/WechatIMG273-300x225.jpeg 300w, https://meltingpot.tk/wp-content/uploads/2019/10/WechatIMG273-768x575.jpeg 768w, https://meltingpot.tk/wp-content/uploads/2019/10/WechatIMG273.jpeg 1137w" sizes="(max-width: 1024px) 100vw, 1024px" />											
+			<a href="https://meltingpot.tk/dish-filter/" role="button">
+						Filter Food by Preference
+					</a>
 										<img width="1024" height="50" src="http://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47-1024x50.png" alt="" srcset="https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47-1024x50.png 1024w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47-300x15.png 300w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47-768x38.png 768w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47.png 1483w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h3>Let's go and explore some English restaurants</h3>		
 										<img width="718" height="711" src="http://meltingpot.tk/wp-content/uploads/2019/09/Untitled-68.png" alt="" srcset="https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-68.png 718w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-68-150x150.png 150w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-68-300x297.png 300w" sizes="(max-width: 718px) 100vw, 718px" />											

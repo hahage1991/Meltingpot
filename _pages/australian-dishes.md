@@ -15,6 +15,7 @@ post_date: 2019-09-06 06:05:34
 					</a>
 			<a href="#dada">
 						</a>
+										<img width="1024" height="397" src="http://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T184451.469-1024x397.png" alt="" srcset="https://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T184451.469-1024x397.png 1024w, https://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T184451.469-300x116.png 300w, https://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T184451.469-768x297.png 768w, https://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T184451.469.png 1175w" sizes="(max-width: 1024px) 100vw, 1024px" />											
 			<h3>PICNIC SAUSAGE ROLLS</h3>		
 			<a href="https://meltingpot.tk/picnic-sausage-rolls/" role="button">
 						Know more

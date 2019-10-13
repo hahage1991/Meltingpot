@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.meltingpot.tk/diversity-statistic/
+  http://www.meltingpot.tk/diversity-statistic/
 published: true
 post_date: 2019-09-08 10:31:49
 ---

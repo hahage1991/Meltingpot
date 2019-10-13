@@ -31,6 +31,9 @@ post_date: 2019-09-04 13:05:34
 						Know more
 					</a>
 										<img width="768" height="576" src="http://meltingpot.tk/wp-content/uploads/2019/10/gulab-jamun-768x576.jpg" alt="" srcset="https://meltingpot.tk/wp-content/uploads/2019/10/gulab-jamun-768x576.jpg 768w, https://meltingpot.tk/wp-content/uploads/2019/10/gulab-jamun-300x225.jpg 300w, https://meltingpot.tk/wp-content/uploads/2019/10/gulab-jamun.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" />											
+			<a href="https://meltingpot.tk/dish-filter/" role="button">
+						Filter Food by Preference
+					</a>
 										<img width="1483" height="73" src="http://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47.png" alt="" srcset="https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47.png 1483w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47-300x15.png 300w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47-768x38.png 768w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-47-1024x50.png 1024w" sizes="(max-width: 1483px) 100vw, 1483px" />											
 			<h3>Let's go and explore some Indian restaurants</h3>		
 										<img width="718" height="711" src="http://meltingpot.tk/wp-content/uploads/2019/09/Untitled-68.png" alt="" srcset="https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-68.png 718w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-68-150x150.png 150w, https://meltingpot.tk/wp-content/uploads/2019/09/Untitled-68-300x297.png 300w" sizes="(max-width: 718px) 100vw, 718px" />											

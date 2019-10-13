@@ -4,8 +4,7 @@ post_title: Chinese Dishes
 author: user
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.meltingpot.tk/chinese-dishes/
+permalink: http://www.meltingpot.tk/chinese-dishes/
 published: true
 post_date: 2019-09-02 03:48:40
 ---

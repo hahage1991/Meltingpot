@@ -4,7 +4,7 @@ post_title: Italian Dishes
 author: user
 post_excerpt: ""
 layout: page
-permalink: http://www.meltingpot.tk/italian-dishes/
+permalink: http://meltingpot.tk/italian-dishes/
 published: true
 post_date: 2019-09-06 06:08:38
 ---

@@ -4,8 +4,7 @@ post_title: Vietnamese Dishes
 author: user
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.meltingpot.tk/vietnamese-dishes/
+permalink: http://meltingpot.tk/vietnamese-dishes/
 published: true
 post_date: 2019-09-06 06:06:56
 ---

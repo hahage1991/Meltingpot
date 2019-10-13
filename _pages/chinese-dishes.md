@@ -13,7 +13,7 @@ post_date: 2019-09-02 03:48:40
 			<a href="#dada">
 						</a>
 										<img width="1024" height="397" src="http://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T190135.734-1024x397.png" alt="" srcset="https://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T190135.734-1024x397.png 1024w, https://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T190135.734-300x116.png 300w, https://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T190135.734-768x297.png 768w, https://meltingpot.tk/wp-content/uploads/2019/10/Untitled-2019-10-13T190135.734.png 1175w" sizes="(max-width: 1024px) 100vw, 1024px" />											
-			<a href="#" role="button">
+			<a href="https://meltingpot.tk/food-and-culture-quiz/" role="button">
 						Take a quiz
 					</a>
 			<h3>Dumplings</h3>		

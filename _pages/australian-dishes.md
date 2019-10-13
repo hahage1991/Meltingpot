@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.meltingpot.tk/australian-dishes/
+  http://www.meltingpot.tk/australian-dishes/
 published: true
 post_date: 2019-09-06 06:05:34
 ---

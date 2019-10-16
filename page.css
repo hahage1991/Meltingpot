@@ -1,0 +1,142 @@
+div.rating-form input[type=button] {
+    display: inline-block;
+    background-color: #FFC04F;
+	  font-size:20px;
+   font-family:Arial,Helvetica, sans-serif;
+   font-weight:bold;
+	 padding:5px;
+}
+
+
+
+/*The quiz width*/
+div.fca_qc_quiz {
+    max-width: 900px !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #151515;
+    padding: 30px 50px;
+}
+
+/*Quiz button*/
+div.fca_qc_quiz button.fca_qc_button {
+    width: 200px;
+    height: 70px !important;
+}
+
+/*Quiz Image*/
+img.fca_qc_quiz_question_img{
+	height: 200px;
+	  width: auto;
+}
+
+img.fca_qc_quiz_description_img
+{
+	height:200px;
+	width:auto;
+}
+
+/*Quiz downloadbutton */
+a.downloadbutton1 {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px 20px 5px 20px;
+	margin: 5px;
+}
+
+/*hide footer*/
+#colibri .style-62 {
+	display:none;
+}
+
+/*hide the white space in the quiz level selection background*/
+.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
+    padding: 0px;
+}
+
+.scrollDown{
+	animation-iteration-count:infinite;
+}
+
+/* acknowledgement */
+.age-gate{
+	align-content:center;
+}
+.age-gate-form {
+	background-color:rgba(1,1,1,0);
+	max-width:1000px;
+	width:100% !important;
+	text-align:center;
+	align-content:center;
+	margin:auto;
+}
+.age-gate-heading {
+	font-size:50px;
+}
+.age-gate-subheading {
+	width:auto-flow;
+	white-space: nowrap;
+	font-size:35px;}
+
+.age-gate-challenge, .age-gate-message {
+	font-size:28px;
+	width:100%;
+	align-content:center;
+	justify-content:center;
+	margin:0px;
+}
+
+.age-gate-submit-yes {
+    margin: 20px 20px 10px 0;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-radius: 7px;
+	  background-color:#FFBD33;
+		cursor:pointer;
+}
+.age-gate-submit-yes:hover{
+	opacity:0.8;
+}
+.age-gate-submit-no:hover{
+	opacity:0.8;
+}
+
+.age-gate-submit-no {
+    margin: 20px 0px 10px 20px;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-radius: 7px;
+	   background-color:#FFBD33;
+		cursor:pointer;
+}
+
+
+.age-gate-error-message {
+    color: #c00;
+    margin: 0;
+    font-weight: 700;
+    font-size: 25px;
+	  padding:20px;
+}
+
+/* event details css*/
+.h-col {
+    max-width: 80%;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#visButton{
+	animation-iteration-count:infinite;
+}
+
+span.count{
+	display:none !important;
+}
+
+span.star-result{
+	display:none ;
+}
